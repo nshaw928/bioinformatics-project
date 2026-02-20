@@ -1,0 +1,23 @@
+# References
+docs/
+
+# Enviroment
+.venv/
+
+# Data
+data/raw/
+data/processed/
+*.gz
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
