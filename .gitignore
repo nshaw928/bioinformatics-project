@@ -3,6 +3,7 @@ docs/
 
 # Enviroment
 .venv/
+.claude
 
 # Data
 data/raw/
