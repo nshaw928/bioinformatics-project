@@ -1,15 +1,19 @@
 # References
 docs/
 
-# Enviroment
+# Enviroment + AI
 .venv/
 .claude
+CLAUDE.md
 
 # Data
 data/raw/
 data/processed/
 *.gz
 *.zip
+
+# Results (Large file sizes)
+results/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
