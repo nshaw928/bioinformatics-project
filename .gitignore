@@ -13,7 +13,7 @@ data/processed/
 *.zip
 
 # Results (Large file sizes)
-results/
+results/deseq/dds.pkl
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
