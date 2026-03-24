@@ -14,6 +14,7 @@ data/processed/
 
 # Results (Large file sizes)
 results/deseq/dds.pkl
+results/deseq/*/*.csv
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
