@@ -1,4 +1,4 @@
-# rnaseq-breastcancer_classification
+# rnaseq-breastcancer-classification
 
 This project is still under construction. I am actively working on polishing this project and expanding on the analysis.
 
